@@ -21458,27 +21458,31 @@ select {
 } */
 
 
-
-/* Pages Banner  */
-
-/* .inner-banner {
-    background: url(../images/banner2.jpg) no-repeat center;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    position: relative;
-    z-index: 0;
+.card-custom {
+    padding: 25px 20px;
+    text-align: center;
+    border: 0.5px solid pink;
 }
 
-.inner-banner:before {
-    content: "";
-    background: var(--layer1);
-    position: absolute;
-    top: 0;
-    min-height: 100%;
-    left: 0;
-    right: 0;
-    z-index: -1;
-} */
+.card-custom span{
+    font-weight: lighter;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: pink;
+}
+
+.card-custom h4{
+    font-weight: 200;
+    line-height: 1.2;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #198754;
+}
+
+.card-custom p{
+    /* font-weight: 100; */
+    line-height: 1.2;
+    font-weight: lighter;
+    font-size: 14px;
+    color: #0c4128;
+}
