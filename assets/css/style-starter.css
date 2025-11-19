@@ -20788,12 +20788,12 @@ form.subscribe-wthree input:focus {
     color: #fff;
     width: 46px;
     height: 46px;
-    background: var(--primary-color);
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
+    background: #00FB73;
+    border-radius: 10%;
+    /* -webkit-border-radius: 50%;
     -o-border-radius: 50%;
     -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
+    -ms-border-radius: 50%; */
     padding: 0;
 }
 
@@ -21507,12 +21507,12 @@ select {
     color: #fff;
     width: 46px;
     height: 46px;
-    background: var(--primary-color);
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
+    background: #00FB73;
+    border-radius: 10%;
+    /* -webkit-border-radius: 50%;
     -o-border-radius: 50%;
     -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
+    -ms-border-radius: 50%; */
     padding: 0;
 }
 
@@ -21522,7 +21522,7 @@ select {
     right: 0;
     left: 52px;
     z-index: 999;
-    font-size: 16px;
+    font-size: 28px;
     width: 46px;
     height: 46px;
   
